@@ -1,0 +1,63 @@
+#pierre{
+    width:175px;
+    height:175px;
+    border:solid;
+    position:relative;
+    left:1000px;
+
+}
+#feuille{
+    width:175px;
+    height:175px;
+    border:solid;
+    position:relative;
+     left:750px;
+    bottom:181px;
+}
+#ciseau{
+    width:175px;
+    height:175px;
+    border:solid;
+    position:relative;
+    left:460px;
+    bottom:362px;
+}
+h1{
+    background-color:Blue;
+    text-align: center;
+    display:block;
+    border:solid black 2px;
+}
+
+#Score{
+    background-color: deepskyblue;
+    display:inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom:200px;
+}
+
+#egal{
+    background-color: deepskyblue;
+    display:inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom:200px;
+}
+#Loose{
+    background-color: deepskyblue;
+    display:inline-block;
+    font-size: 30px;
+    position: relative;
+    bottom:200px;
+}
+#st{
+    background-color: yellowgreen;
+    border:solid black 2px;
+
+    font-size: 30px;
+    text-align: center;
+    position:relative;
+    bottom:200px;
+
+}
